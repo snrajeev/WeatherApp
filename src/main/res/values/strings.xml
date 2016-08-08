@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="ButtonText">Get Weather Forecast!</string>
+    <string name="CurrentWeatherTitle">Current Weather Forecast</string>
+    <string name="DailyWeatherTitle">Daily Weather Forecast</string>
+    <string name="HourlyWeatherTitle">Hourly Weather Forecast</string>
+    <string name="MinutelyWeatherTitle">Minutely Weather Forecast</string>
+    <string name="AdditionalInfoTitle">Additional Information:</string>
+    <string name="DailyForecastButton">Daily</string>
+    <string name="HourlyForecastButton">Hourly</string>
+    <string name="MinutelyForecastButton">Minutely</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
